@@ -28,7 +28,7 @@
     "uuid": "^13.0.0",
     "yaml": "^2.8.2",
     "dotenv": "^17.2.4",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.13",
